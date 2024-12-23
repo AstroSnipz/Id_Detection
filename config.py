@@ -1,0 +1,1 @@
+MODEL_PATH = r'C:\Users\sharon sajan\Downloads\yolov8-20241213T202148Z-001\yolov8\runs\custom_train\custom_train\weights\best.pt'
