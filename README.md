@@ -1,4 +1,4 @@
-# Government ID Classification and Information Extraction
+# Deep Learning-based Government ID Verification System
 
 This application uses a trained YOLO model to classify government ID types and extract relevant information. Follow the steps below to set up and run the application.
 
